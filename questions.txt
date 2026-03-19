@@ -1,0 +1,10 @@
+What protocol uses port 53?|HTTP|DNS|FTP|SSH|B
+What protocol uses port 80?|HTTPS|SSH|HTTP|SMTP|C
+What protocol uses port 443?|Telnet|HTTPS|POP3|DNS|B
+What does CPU stand for?|Central Process Unit|Central Processing Unit|Computer Personal Unit|Central Program Utility|B
+Which device forwards packets between networks?|Switch|Hub|Router|Modem|C
+Which command lists files in Linux?|pwd|cd|ls|mv|C
+Which protocol is used for secure remote login?|FTP|SSH|DNS|ARP|B
+Which layer handles routing in the OSI model?|Transport|Network|Session|Data Link|B
+What does RAM stand for?|Random Access Memory|Read Access Memory|Rapid Access Module|Run Access Memory|A
+Which protocol is commonly used to transfer web pages?|HTTP|SSH|IMAP|SNMP|A
